@@ -5,4 +5,4 @@ Code for Niigataで扱う文書類を扱うレポジトリです。
 
 |ファイル名        | 名称         | 説明  |
 |---------------|-------------|-------|
-| [[guideline.md]]  | 行動ガイドライン | Code for Niigataのメンバーが活動上心がけるべき内容を示します。 |
+| [guideline.md](guideline.md)  | 行動ガイドライン | Code for Niigataのメンバーが活動上心がけるべき内容を示します。 |
